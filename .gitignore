@@ -4,6 +4,11 @@ prj/Logs/
 prj/UserSettings/
 output/
 
+# Server build output (generated, not source)
+teamobi/SRC/data/
+teamobi/SRC/build/
+teamobi/SRC/dist/
+
 # OS
 .DS_Store
 Thumbs.db
