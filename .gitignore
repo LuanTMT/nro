@@ -1,0 +1,11 @@
+# Unity generated
+prj/Library/
+prj/Logs/
+prj/UserSettings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.rar
