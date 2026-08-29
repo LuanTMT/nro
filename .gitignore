@@ -4,6 +4,11 @@ prj/Logs/
 prj/UserSettings/
 output/
 
+# Server build
+teamobi/SRC/data/
+teamobi/SRC/build/
+teamobi/SRC/dist/
+
 # OS
 .DS_Store
 Thumbs.db
@@ -11,3 +16,6 @@ Thumbs.db
 # Archives
 *.rar
 *.zip
+
+# Build files
+prj/nro.apk
