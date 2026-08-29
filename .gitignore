@@ -8,6 +8,8 @@ output/
 teamobi/SRC/data/
 teamobi/SRC/build/
 teamobi/SRC/dist/
+teamobi/SRC/lib/
+teamobi/SRC/*.jar
 
 # OS
 .DS_Store
@@ -19,3 +21,14 @@ Thumbs.db
 
 # Build files
 prj/nro.apk
+*.apk
+
+# IDE
+.freebuff/
+*.iml
+.idea/
+.vscode/
+
+# Documents
+*.xlsx
+*.docx
